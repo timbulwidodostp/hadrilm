@@ -1,6 +1,8 @@
 # hadrilm
 Hadri panel stationarity test Use hadrilm With STATA 19
 
+https://www.youtube.com/watch?v=VjtS2PnxNp8
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
